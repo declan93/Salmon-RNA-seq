@@ -99,7 +99,7 @@ mv SRR3624037_2.fastq unmod_7_r2.fq
 ### Fastqc
 All fastq files where checked for sequencing quality using fastqc every fastq file contained high quality reads. Below is an example of the results:
 
-<centre>![Fastqc](/home/user09/Downloads/Fastqc.png)</centre>
+<centre>![Fastqc](https://github.com/declan93/images/blob/master/Fastqc.png?raw=true)</centre>
 
 ## Salmon
 
