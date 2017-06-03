@@ -42,7 +42,7 @@ instant/reads/ByStudy/sra/SRP/SRP076/SRP076104/SRR26240${i}/SRR26240${i}.sra ./
 done
 ```
 ***
-Fastq dump will extract the fastq files from sra format. Fastqc showed that all files contained high quality trimmed sequences. No further trimming ws required.
+Fastq dump will extract the fastq files from sra format. Fastqc showed that all files contained high quality trimmed sequences. No further trimming was required.
 
 ```{bash, message=FALSE, eval=F,tidy=T}
 #!/bin/sh 
